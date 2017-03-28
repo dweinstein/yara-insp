@@ -18,4 +18,4 @@ yinsp: $(OBJ)
 
 .PHONY: clean
 clean:
-	rm -f $(ODIR)/*.o *~ yinsp $(INCDIR)/*~
+	rm -f $(ODIR)/*.o *~ yinsp
